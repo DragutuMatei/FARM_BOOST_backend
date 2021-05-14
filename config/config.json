@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "root",
+      "password": "",
+      "database": "nush_ce_sa_scriu",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "nush_ce_sa_scriu",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": null,
+      "database": "nush_ce_sa_scriu",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
